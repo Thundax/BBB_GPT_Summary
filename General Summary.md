@@ -5,7 +5,7 @@ Sections are in the process of being summarized.
 
 ---
 
-# **Title I - AGRICULTURE, NUTRITION, AND FORESTRY
+# **Title I - AGRICULTURE, NUTRITION, AND FORESTRY**
 
 ## Subtitle A - Nutrition
 
@@ -16,11 +16,11 @@ Sec. §10104: Restrictions on internet expenses\
 Sec. §10105: Matching funds requirements\
 Sec. §10106: Administrative cost sharing\
 Sec. §10107: National education and obesity prevention grant program\
-Sec. §10108: Alien SNAP eligibility\
+Sec. §10108: Alien SNAP eligibility
 
 ## Subtitle B - Forestry
 
-Sec. §10201: Rescission of amount for forestry\
+Sec. §10201: Rescission of amount for forestry
 
 ## Subtitle C - Commodities
 
@@ -37,11 +37,11 @@ Sec. §10310: Repayment of marketing loans\
 Sec. §10311: Economic adjustment assistance for textile mills\
 Sec. §10312: Sugar program updates\
 Sec. §10313: Dairy policy updates\
-Sec. §10314: Implementation\
+Sec. §10314: Implementation
 
 ## Subtitle D - Disaster Assistance Programs
 
-Sec. §10401: Supplemental agricultural disaster assistance\
+Sec. §10401: Supplemental agricultural disaster assistance
 
 ## Subtitle E - Crop Insurance
 
@@ -51,7 +51,7 @@ Sec. §10503: Administrative and operating expense adjustments\
 Sec. §10504: Premium support\
 Sec. §10505: Program compliance and integrity\
 Sec. §10506: Reviews, compliance, and integrity\
-Sec. §10507: Poultry insurance pilot program\
+Sec. §10507: Poultry insurance pilot program
 
 ## Subtitle F - Additional Investments in Rural America
 
@@ -61,7 +61,7 @@ Sec. §10603: Nutrition\
 Sec. §10604: Research\
 Sec. §10605: Energy\
 Sec. §10606: Horticulture\
-Sec. §10607: Miscellaneous\
+Sec. §10607: Miscellaneous
 
 ---
 
@@ -79,7 +79,7 @@ Sec. §20009: Enhancement of Department of Defense resources to improve capabili
 Sec. §20010: Enhancement of Department of Defense resources for improving the readiness of the Department of Defense\
 Sec. §20011: Improving Department of Defense border support and counterdrug missions\
 Sec. §20012: Department of Defense oversight\
-Sec. §20013: Military construction projects authorized\
+Sec. §20013: Military construction projects authorized
 
 ---
 
@@ -88,7 +88,7 @@ Sec. §20013: Military construction projects authorized\
 Sec. §30001: Funding cap for the Bureau of Consumer Financial Protection\
 Sec. §30002: Rescission of funds for Green and Resilient Retrofit Program for Multifamily Housing\
 Sec. §30003: Securities and Exchange Commission Reserve Fund\
-Sec. §30004: Appropriations for Defense Production Act\
+Sec. §30004: Appropriations for Defense Production Act
 
 ---
 
@@ -104,7 +104,7 @@ Sec. §40007: Payments for lease of Metropolitan Washington Airports\
 Sec. §40008: Rescission of certain amounts for the National Oceanic and Atmospheric Administration\
 Sec. §40009: Reduction in annual transfers to Travel Promotion Fund\
 Sec. §40010: Treatment of unobligated funds for alternative fuel and low-emission aviation technology\
-Sec. §40011: Rescission of amounts appropriated to Public Wireless Supply Chain Innovation Fund\
+Sec. §40011: Rescission of amounts appropriated to Public Wireless Supply Chain Innovation Fund
 
 ---
 
@@ -116,14 +116,14 @@ Sec. §50101: Onshore oil and gas leasing\
 Sec. §50102: Offshore oil and gas leasing\
 Sec. §50103: Royalties on extracted methane\
 Sec. §50104: Alaska oil and gas leasing\
-Sec. §50105: National Petroleum Reserve–Alaska\
+Sec. §50105: National Petroleum Reserve–Alaska
 
 ## Subtitle B - Mining
 
 Sec. §50201: Coal leasing\
 Sec. §50202: Coal royalty\
 Sec. §50203: Leases for known recoverable coal resources\
-Sec. §50204: Authorization to mine Federal coal\
+Sec. §50204: Authorization to mine Federal coal
 
 ## Subtitle C - Lands
 
@@ -131,14 +131,14 @@ Sec. §50301: Timber sales and long-term contracting for the Forest Service and 
 Sec. §50302: Renewable energy fees on Federal land\
 Sec. §50303: Renewable energy revenue sharing\
 Sec. §50304: Rescission of National Park Service and Bureau of Land Management funds\
-Sec. §50305: Celebrating America’s 250th anniversary\
+Sec. §50305: Celebrating America’s 250th anniversary
 
 ## Subtitle D - Energy
 
 Sec. §50401: Strategic Petroleum Reserve\
 Sec. §50402: Repeals; rescissions\
 Sec. §50403: Energy dominance financing\
-Sec. §50404: Transformational artificial intelligence models\
+Sec. §50404: Transformational artificial intelligence models
 
 ## Subtitle E - Water
 
@@ -173,7 +173,7 @@ Sec. §60022: Rescission of funding for GSA emerging and sustainable technologie
 Sec. §60023: Rescission of environmental review implementation funds\
 Sec. §60024: Rescission of low-carbon transportation materials grants\
 Sec. §60025: John F. Kennedy Center for the Performing Arts\
-Sec. §60026: Project sponsor opt-in fees for environmental reviews\
+Sec. §60026: Project sponsor opt-in fees for environmental reviews
 
 ---
 
@@ -181,7 +181,7 @@ Sec. §60026: Project sponsor opt-in fees for environmental reviews\
 
 # Subtitle A - Tax
 
-Sec. §70001: References to the Internal Revenue Code of 1986, etc\
+Sec. §70001: References to the Internal Revenue Code of 1986, etc
 
 ## Chapter 1 - Providing Permanent Tax Relief for Middle-class Families and Workers
 
@@ -204,14 +204,14 @@ Sec. §70116: Extension and enhancement of savers credit allowed for ABLE contri
 Sec. §70117: Extension of rollovers from qualified tuition programs to ABLE accounts permitted\
 Sec. §70118: Extension of treatment of certain individuals performing services in the Sinai Peninsula and enhancement to include additional areas\
 Sec. §70119: Extension and modification of exclusion from gross income of student loans discharged on account of death or disability\
-Sec. §70120: Limitation on individual deductions for certain state and local taxes, etc\
+Sec. §70120: Limitation on individual deductions for certain state and local taxes, etc
 
 ## Chapter 2 - Delivering on Presidential Priorities to Provide New Middle-class Tax Relief
 
 Sec. §70201: No tax on tips\
 Sec. §70202: No tax on overtime\
 Sec. §70203: No tax on car loan interest\
-Sec. §70204: Trump accounts and contribution pilot program\
+Sec. §70204: Trump accounts and contribution pilot program
 
 ## Chapter 3 - Establishing Certainty and Competitiveness for American Job Creators
 
@@ -225,7 +225,7 @@ Sec. §70305: Exceptions from limitations on deduction for business meals\
 Sec. §70306: Increased dollar limitations for expensing of certain depreciable business asset\
 Sec. §70307: Special depreciation allowance for qualified production property\
 Sec. §70308: Enhancement of advanced manufacturing investment credit\
-Sec. §70309: Spaceports are treated like airports under exempt facility bond rules\
+Sec. §70309: Spaceports are treated like airports under exempt facility bond rules
 
 ### Subchapter B - Permanent America-First International Tax Reforms
 
@@ -233,17 +233,17 @@ Sec. §70309: Spaceports are treated like airports under exempt facility bond ru
 
 Sec. §70311: Modifications related to foreign tax credit limitation\
 Sec. §70312: Modifications to determination of deemed paid credit for taxes properly attributable to tested income\
-Sec. §70313: Sourcing certain income from the sale of inventory produced in the United States\
+Sec. §70313: Sourcing certain income from the sale of inventory produced in the United States
 
 #### Part II - Foreign-Derived Deduction Eligible Income and Net CFC Tested Income
 
 Sec. §70321: Modification of deduction for foreign-derived deduction eligible income and net CFC tested income\
 Sec. §70322: Determination of deduction eligible income\
-Sec. §70323: Rules related to deemed intangible income\
+Sec. §70323: Rules related to deemed intangible income
 
 #### Part III - Base Erosion Minimum Tax
 
-Sec. §70331: Extension and modification of base erosion minimum tax amount\
+Sec. §70331: Extension and modification of base erosion minimum tax amount
 
 #### Part IV - Business Interest Limitation
 
@@ -252,7 +252,7 @@ Sec. §70342: Definition of adjusted taxable income for business interest limita
 Sec. §70351: Permanent extension of look-thru rule for related controlled foreign corporations\
 Sec. §70352: Repeal of election for 1-month deferral in determination of taxable year of specified foreign corporations\
 Sec. §70353: Restoration of limitation on downward attribution of stock ownership in applying constructive ownership rules\
-Sec. §70354: Modifications to pro rata share rules\
+Sec. §70354: Modifications to pro rata share rules
 
 ## Chapter 4 - Investing in American Families, Communities, and Small Business
 
@@ -262,7 +262,7 @@ Sec. §70401: Enhancement of employer-provided child care credit\
 Sec. §70402: Enhancement of adoption credit\
 Sec. §70403: Recognizing Indian tribal governments for purposes of determining whether a child has special needs for purposes of the adoption credit\
 Sec. §70404: Enhancement of the dependent care assistance program\
-Sec. §70405: Enhancement of child and dependent care tax credit\
+Sec. §70405: Enhancement of child and dependent care tax credit
 
 ### Subchapter B - Permanent Investments in Students and Reforms to Tax-Exempt Institutions
 
@@ -271,7 +271,7 @@ Sec. §70412: Exclusion for employer payments of student loans\
 Sec. §70413: Additional expenses treated as qualified higher education expenses for purposes of 529 accounts\
 Sec. §70414: Certain postsecondary credentialing expenses treated as qualified higher education expenses for purposes of 529 accounts\
 Sec. §70415: Modification of excise tax on investment income of certain private colleges and universities\
-Sec. §70416: Expanding application of tax on excess compensation within taxexempt organizations\
+Sec. §70416: Expanding application of tax on excess compensation within taxexempt organizations
 
 ### Subchapter C - Permanent Investments in Community Development
 
@@ -284,7 +284,7 @@ Sec. §70426: 1-percent floor on deduction of charitable contributions made by c
 Sec. §70427: Permanent increase in limitation on cover over of tax on distilled spirit\
 Sec. §70428: Nonprofit community development activities in remote native villages\
 Sec. §70429: Adjustment of charitable deduction for certain expenses incurred in support of Native Alaskan subsistence whaling\
-Sec. §70430: Exception to percentage of completion method of accounting for certain residential construction contracts\
+Sec. §70430: Exception to percentage of completion method of accounting for certain residential construction contracts
 
 ### Subchapter D - Permanent Investments in Small business and Rural America
 
@@ -296,7 +296,7 @@ Sec. §70435: Exclusion of interest on loans secured by rural or agricultural re
 Sec. §70436: Reduction of transfer and manufacturing taxes for certain devices\
 Sec. §70437: Treatment of capital gains from the sale of certain farmland property\
 Sec. §70438: Extension of rules for treatment of certain disaster-related personal casualty losses\
-Sec. §70439: Restoration of taxable REIT subsidiary asset test\
+Sec. §70439: Restoration of taxable REIT subsidiary asset test
 
 ## Chapter 5 - Ending Green New Deal Spending, Promoting America-First Energy, and Other Reforms
 
@@ -316,7 +316,7 @@ Sec. §70511: Termination of clean hydrogen production credit\
 Sec. §70512: Termination and restrictions on clean electricity production credit\
 Sec. §70513: Termination and restrictions on clean electricity investment credit\
 Sec. §70514: Phase-out and restrictions on advanced manufacturing productioncredit\
-Sec. §70515: Restriction on the extension of advanced energy project credit program\
+Sec. §70515: Restriction on the extension of advanced energy project credit program
 
 ### Subchapter B - Enhancement of America-First Energy Policy
 
@@ -324,11 +324,11 @@ Sec. §70521: Extension and modification of clean fuel production credit\
 Sec. §70522: Restrictions on carbon oxide sequestration credit\
 Sec. §70523: Intangible drilling and development costs taken into account for purposes of computing adjusted financial statement income\
 Sec. §70524: Income from hydrogen storage, carbon capture, advanced nuclear, hydropower, and geothermal energy added to qualifying income of certain publicly traded partnerships\
-Sec. §70525: Allow for payments to certain individuals who dye fuel\
+Sec. §70525: Allow for payments to certain individuals who dye fuel
 
 ### Subchapter C - Other Reforms
 
-Sec. §70531: Modifications to de minimis entry privilege for commercial shipments\
+Sec. §70531: Modifications to de minimis entry privilege for commercial shipments
 
 ## Chapter 6 - Enhancing Deduction and Income Tax Credit Guardrails, and Other Reforms
 
@@ -355,13 +355,13 @@ Sec. §71106: Payment reduction related to certain erroneous excess payments und
 Sec. §71107: Eligibility redeterminations\
 Sec. §71108: Revising home equity limit for determining eligibility for long-term care services under the Medicaid program\
 Sec. §71109: Alien Medicaid eligibility\
-Sec. §71110: Expansion FMAP for emergency Medicaid\
+Sec. §71110: Expansion FMAP for emergency Medicaid
 
 ### Subchapter B - Preventing Wasteful Spending
 
 Sec. §71111: Moratorium on implementation of rule relating to staffing standards for long-term care facilities under the Medicare and Medicaid programs\
 Sec. §71112: Reducing State Medicaid costs\
-Sec. §71113: Federal payments to prohibited entities\
+Sec. §71113: Federal payments to prohibited entities
 
 ### Subchapter C - Stopping Abusive Financial Practices
 
@@ -369,7 +369,7 @@ Sec. §71114: Sunsetting increased FMAP incentive\
 Sec. §71115: Provider taxes\
 Sec. §71116: State directed payments\
 Sec. §71117: Requirements regarding waiver of uniform tax requirement for Medicaid provider tax\
-Sec. §71118: Requiring budget neutrality for Medicaid demonstration projects under section 1115\
+Sec. §71118: Requiring budget neutrality for Medicaid demonstration projects under section 1115
 
 ### Subchapter D - Increasing Personal Accountability
 
@@ -384,43 +384,43 @@ Sec. §71121: Making certain adjustments to coverage of home or community-based 
 
 ### Subchapter A - Strengthening Eligibility Requirements
 
-Sec. §71201: Limiting Medicare coverage of certain individuals\
+Sec. §71201: Limiting Medicare coverage of certain individuals
 
 ### Subchapter B - Improving Services for Seniors
 
 Sec. §71202: Temporary payment increase under the medicare physician fee schedule to account for exceptional circumstances\
-Sec. §71203: Expanding and clarifying the exclusion for orphan drugs under the Drug Price Negotiation Program\
+Sec. §71203: Expanding and clarifying the exclusion for orphan drugs under the Drug Price Negotiation Program
 
 ## Chapter 3 - Health Tax
 
 ### Subchapter A - Improving Eligibility Criteria
 
 Sec. §71301: Permitting premium tax credit only for certain individuals\
-Sec. §71302: Disallowing premium tax credit during periods of medicaid ineligibility due to alien status\
+Sec. §71302: Disallowing premium tax credit during periods of medicaid ineligibility due to alien status
 
 ### Subchapter B - Preventing Waste, Fraud, and Abuse
 
 Sec. §71303: Requiring verification of eligibility for premium tax credit\
 Sec. §71304: Disallowing premium tax credit in case of certain coverage enrolled in during special enrollment period\
-Sec. §71305: Eliminating limitation on recapture of advance payment of premium tax credit\
+Sec. §71305: Eliminating limitation on recapture of advance payment of premium tax credit
 
 ### Subchapter C - Enhancing Choice for Patients
 
 Sec. §71306: Permanent extension of safe harbor for absence of deductible for telehealth services\
 Sec. §71307: Allowance of bronze and catastrophic plans in connection with health savings accounts\
-Sec. §71308: Treatment of direct primary care service arrangements\
+Sec. §71308: Treatment of direct primary care service arrangements
 
 ## Chapter 4 - Protecting Rural Hospitals and Providers
 
-Sec. §71401: Rural Health Transformation Program\
+Sec. §71401: Rural Health Transformation Program
 
 # Subtitle C - Increase in Debt Limit
 
-Sec. §72001: Modification of limitation on the public debt\
+Sec. §72001: Modification of limitation on the public debt
 
 # Subtitle D - Unemployment
 
-Sec. §73001: Ending unemployment payments to jobless millionaires\
+Sec. §73001: Ending unemployment payments to jobless millionaires
 
 ---
 
@@ -428,7 +428,7 @@ Sec. §73001: Ending unemployment payments to jobless millionaires\
 
 ## Subtitle A - Exemption on Certain Assets
 
-Sec. §80001: Exemption of certain assets\
+Sec. §80001: Exemption of certain assets
 
 ## Subtitle B - Loan Limits
 
@@ -447,11 +447,11 @@ Sec. §82005: Student loan servicing
 Sec. §83001: Eligibility\
 Sec. §83002: Workforce Pell Grants\
 Sec. §83003: Pell shortfall\
-Sec. §83004: Federal Pell Grant exclusion relating to other grant aid\
+Sec. §83004: Federal Pell Grant exclusion relating to other grant aid
 
 ## Subtitle E - Accountability
 
-Sec. §84001: Ineligibility based on low earning outcomes\
+Sec. §84001: Ineligibility based on low earning outcomes
 
 ## Subtitle F - Regulatory relief
 
@@ -460,11 +460,11 @@ Sec. §85002: Delay of rule relating to closed school discharges
 
 ## Subtitle G - Garden of Heroes
 
-Sec. §86001: Garden of Heroes\
+Sec. §86001: Garden of Heroes
 
 ## Subtitle H - Office of Refugee Resettlement
 
-Sec. §87001: Potential sponsor vetting for unaccompanied alien children appropriation\
+Sec. §87001: Potential sponsor vetting for unaccompanied alien children appropriation
 
 ---
 
@@ -511,7 +511,7 @@ Sec. §100014: Electronic System for Travel Authorization fee\
 Sec. §100015: Electronic Visa Update System fee\
 Sec. §100016: Fee for aliens ordered removed in absentia\
 Sec. §100017: Inadmissible alien apprehension fee\
-Sec. §100018: Amendment to authority to apply for asylum\
+Sec. §100018: Amendment to authority to apply for asylum
 
 ### Part II - Immigrationg and Law Enforcement Funding
 
@@ -521,12 +521,12 @@ Sec. §100053: Appropriation for Federal Law Enforcement Training Centers\
 Sec. §100054: Appropriation for the Department of Justice\
 Sec. §100055: Bridging Immigration-related Deficits Experienced Nationwide Reimbursement Fund\
 Sec. §100056: Appropriation for the Bureau of Prisons\
-Sec. §100057: Appropriation for the United States Secret Service\
+Sec. §100057: Appropriation for the United States Secret Service
 
 ## Subtitle B - Judiciary Matters
 
 Sec. §100101: Appropriation to the Administrative Office of the United States Courts\
-Sec. §100102: Appropriation to the Federal Judicial Center\
+Sec. §100102: Appropriation to the Federal Judicial Center
 
 ## Subtitle C - Radiation Exposure Compensation Matters
 
@@ -534,4 +534,4 @@ Sec. §100201: Extension of fund\
 Sec. §100202: Claims relating to atmospheric testing\
 Sec. §100203: Claims relating to uranium mining\
 Sec. §100204: Claims relating to Manhattan Project waste\
-Sec. §100205: Limitations on claims\
+Sec. §100205: Limitations on claims
