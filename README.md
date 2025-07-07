@@ -8,12 +8,12 @@ This repository contains summaries of the US Congress FY 2025 H.R. 1 megabill. A
 Please select one of the *.md files in the table above to view that summary.
 The repository will eventually contain the following:
 
-1. General Summary
-2. Financial Summary
-3. Impact Summary
-4. Strategic Summary
-5. Sociopolitical Summary
-6. Op-ed Summary (My opinions)
+1. [General Summary](./General%20Summary.md)
+2. [Financial Summary](./Financial%20Summary.md)
+3. [Impact Summary](./Impact%20Summary.md)
+4. [Strategic Summary](./Strategic%20Summary.md)
+5. [Sociopolitical Summary](./Sociopolitical%20Summary.md)
+6. [Op-ed Summary](./Op-ed%20Summary.md) (My opinions)
 
 * Summaries compiled by Zachery V. Simmons between 07/05/25 and ($END DATE)
 * This work is provided under the Creative Commons Zero license (CC0)
