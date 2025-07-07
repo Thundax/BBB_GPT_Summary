@@ -1,5 +1,6 @@
 # AI Assisted Summary of the 2025 "Big Beautiful Bill" (H.R. 1)
-[H.R. 1 Full Text](https://www.congress.gov/bill/119th-congress/house-bill/1){:target="_blank"}
+[H.R. 1 Full Text](https://www.congress.gov/bill/119th-congress/house-bill/1)
+*ctrl+click to open in new tab*
 
 This repository contains summaries of the US Congress FY 2025 H.R. 1 megabill. AKA the "Big Beautiful Bill".
 
