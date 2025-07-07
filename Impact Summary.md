@@ -9,10 +9,10 @@ Sections are in the process of being summarized.
 
 ## Subtitle A - Nutrition
 
-Sec. §10101: Re-evaluation of thrifty food plan\
+Sec. §10101: Re-evaluation of thrifty food plan
 * Effectively freezes real-dollar SNAP benefit growth. (Permanent statutory change)
 
-Sec. §10102: Modification to SNAP work requirements for "able-bodied" adults\
+Sec. §10102: Modification to SNAP work requirements for "able-bodied" adults
 * Restricts state flexibility to exempt ABAWDs from work requirements, resulting in potential benefit losses for non-working childless adults. Emphasizes work or training participation and tightens administrative discretion, especially for states with historically broad waivers. (Temporary, sunsets after FY2028)
 
 Sec. §10103: Availability of standard utility allowances based on receipt of energy assistance\
