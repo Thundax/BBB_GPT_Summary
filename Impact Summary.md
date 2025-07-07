@@ -10,24 +10,13 @@ Sections are in the process of being summarized.
 ## Subtitle A - Nutrition
 
 Sec. §10101: Re-evaluation of thrifty food plan\
-* Codifies the 2021 update of the Thrifty Food Plan as the permanent baseline for determining SNAP benefits.
-* Prohibits cost increases in future re-evaluations beyond 2021 levels unless justified SOLELY by inflation (per CPI).
-* Limits USDA authority by requiring re-evaluations every 5 years, but only per CPI. No discretionary changes or nutitional modeling shifts.
-* Bars changes that would raise benefit levels unless they stem from inflation.
-* Dimishing benefit allotment per person per household over 4 persons.
-* Benefits capped at 200% of the 4 person houshold standard.
-* Special exception for Hawaii, and Alaska, but the territories of Guam or the Virgin Islands.
-* Frozen till 2027.
+* Effectively freezes real-dollar SNAP benefit growth. (Permanent statutory change)
 
 Sec. §10102: Modification to SNAP work requirements for "able-bodied" adults\
-* Narrows waiver authority: Significantly restricts states’ ability to waive time limits for ABAWDs in areas with high unemployment. Waivers may no longer be granted solely on aggregate unemployment rates or geographic contiguity.
-* Caps discretionary exemptions: Reduces the share of ABAWDs a state may exempt from time limits to 6% (down from 12% under previous law). Also removes the ability to carry over unused exemptions year to year.
-* Defines ABAWDs more tightly: Clarifies and tightens the definition of able-bodied adults without dependents, possibly excluding some groups previously treated as exempt (e.g., individuals with marginal disabilities or inconsistent employment histories).
-* Protects tribal sovereignty: Preserves special rulemaking authority for SNAP benefit administration on tribal lands, though states cannot use tribal unemployment rates to justify broader area waivers.
-* Includes sunset clause: Changes apply through FY2028, after which preexisting waiver flexibility is restored unless reauthorized by Congress.
+* Restricts state flexibility to exempt ABAWDs from work requirements, resulting in potential benefit losses for non-working childless adults. Emphasizes work or training participation and tightens administrative discretion, especially for states with historically broad waivers. (Temporary, sunsets after FY2028)
 
 Sec. §10103: Availability of standard utility allowances based on receipt of energy assistance\
-*
+* 
 
 Sec. §10104: Restrictions on internet expenses\
 Sec. §10105: Matching funds requirements\
