@@ -9,7 +9,7 @@ Sections are in the process of being summarized.
 
 ## Subtitle A - Nutrition
 
-Sec. §10101: Re-evaluation of thrifty food plan\
+Sec. §10101: Re-evaluation of thrifty food plan
 * Codifies the 2021 update of the Thrifty Food Plan as the permanent baseline for determining SNAP benefits.
 * Prohibits cost increases in future re-evaluations beyond 2021 levels unless justified SOLELY by inflation (per CPI).
 * Limits USDA authority by requiring re-evaluations every 5 years, but only per CPI. No discretionary changes or nutitional modeling shifts.
@@ -19,7 +19,7 @@ Sec. §10101: Re-evaluation of thrifty food plan\
 * Special exception for Hawaii, and Alaska, but the territories of Guam or the Virgin Islands.
 * Frozen till 2027.
 
-Sec. §10102: Modification to SNAP work requirements for "able-bodied" adults\
+Sec. §10102: Modification to SNAP work requirements for "able-bodied" adults
 * Narrows waiver authority: Significantly restricts states’ ability to waive time limits for ABAWDs in areas with high unemployment. Waivers may no longer be granted solely on aggregate unemployment rates or geographic contiguity.
 * Caps discretionary exemptions: Reduces the share of ABAWDs a state may exempt from time limits to 6% (down from 12% under previous law). Also removes the ability to carry over unused exemptions year to year.
 * Defines ABAWDs more tightly: Clarifies and tightens the definition of able-bodied adults without dependents, possibly excluding some groups previously treated as exempt (e.g., individuals with marginal disabilities or inconsistent employment histories).
