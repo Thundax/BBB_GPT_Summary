@@ -1,6 +1,7 @@
 # AI Assisted Summary of the 2025 "Big Beautiful Bill" (H.R. 1)
-[H.R. 1 Full Text](https://www.congress.gov/bill/119th-congress/house-bill/1)
-*ctrl+click to open in new tab*
+[H.R. 1 Full Text](https://www.congress.gov/bill/119th-congress/house-bill/1)\
+*ctrl+click to open in new tab*\
+*shift+click to open in new window*
 
 This repository contains summaries of the US Congress FY 2025 H.R. 1 megabill. AKA the "Big Beautiful Bill".
 
@@ -14,5 +15,5 @@ The repository will eventually contain the following:
 5. Sociopolitical Summary
 6. Op-ed Summary (My opinions)
 
-* Summaries compiled and prompted by Zachery V. Simmons between 07/05/25 and ($END DATE)
+* Summaries compiled by Zachery V. Simmons between 07/05/25 and ($END DATE)
 * This work is provided under the Creative Commons Zero license (CC0)
